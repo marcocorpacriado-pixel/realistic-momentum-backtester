@@ -1,0 +1,6 @@
+# Ignorar datos e imágenes generadas
+data/
+*.parquet
+*.csv
+__pycache__/
+.ipynb_checkpoints/
